@@ -1,5 +1,5 @@
 {
-  "name": "chanlun_notes",
+  "name": "chanzhongshuochan",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moyuderen/chanlun_notes.git"
+    "url": "git+https://github.com/moyuderen/chanzhongshuochan.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moyuderen/chanlun_notes/issues"
+    "url": "https://github.com/moyuderen/chanzhongshuochan/issues"
   },
-  "homepage": "https://github.com/moyuderen/chanlun_notes#readme",
+  "homepage": "https://github.com/moyuderen/chanzhongshuochan#readme",
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",

@@ -2,7 +2,7 @@ const sidebar = require('./sidebar.js')
 const nav = require('./nav.js')
 
 module.exports = {
-    base: '/chanlun_notes/',
+    base: '/chanzhongshuochan/',
     head: [
         ['link', { rel: 'icon', href: 'favicon.ico' }],
     ],
